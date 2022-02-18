@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+More info - https://vishvasa.github.io/ . Help me with some sanskrit projects? See https://sanskrit.github.io/groups/dyuganga/ .
+
 <!--
 **vvasuki/vvasuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
